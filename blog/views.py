@@ -12,7 +12,7 @@ def post(request):
             "text": "buterbrod s sirom",
             "created": "2020-07-18 21:14"
         },{
-            "title": "Post2",
+            "title": "Post3",
             "text": "asdasd",
             "created": "2020-07-17 14:19"
         }
